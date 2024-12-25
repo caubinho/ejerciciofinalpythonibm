@@ -1,4 +1,4 @@
-#Caso Práctico Final Curso Python
+#Caso Práctico Final Curso Python 2024
 #Alumno Clauberson Pacheco
 
 class Producto:
